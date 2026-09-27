@@ -24,7 +24,13 @@ export default async function Page() {
       </header>
       <StudyApp />
       <footer className="colophon">
-        <p>Your key and notes are never stored. No accounts, no tracking.</p>
+        <p>
+          Your key and notes are never stored. No accounts, no tracking.{" "}
+          <a href="https://github.com/CynthiaSalazarB/mental-click" target="_blank" rel="noopener noreferrer">
+            Read the code
+          </a>
+          .
+        </p>
       </footer>
     </>
   );

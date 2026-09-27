@@ -98,7 +98,13 @@ function KeyPolicy() {
       <ul>
         <li>It stays in this browser, for this tab only unless you tick remember.</li>
         <li>It&apos;s sent over an encrypted connection to make your request, then forgotten. Never stored, never logged.</li>
-        <li>No accounts, no tracking scripts.</li>
+        <li>
+          No accounts, no tracking scripts, and the{" "}
+          <a href="https://github.com/CynthiaSalazarB/mental-click" target="_blank" rel="noopener noreferrer">
+            code is open
+          </a>
+          .
+        </li>
         <li>
           Safest: make a new key just for this tool (a free Gemini key, or an OpenRouter key with a
           small spending limit) and delete it whenever you like.
