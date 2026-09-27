@@ -11,7 +11,7 @@ own notes.
 ## How it works
 
 1. Paste lecture notes, a textbook section or your own summary, and pick how many concepts (1 to 5).
-2. For each concept you get one card with three panels:
+2. For each concept you get a CMU (concept, mental model, use case) card with three panels:
    - **Concept.** What it is in plain words, plus the exact sentence from your notes that
      supports it. "Find it in my notes" highlights that sentence.
    - **Mental model.** An everyday picture to hold the idea by. Then a classmate says something
